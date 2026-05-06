@@ -290,7 +290,7 @@ header .container .links ul li a:hover {
   right: 0;
   z-index: -1;
 }
-@media (max-width:767px) {
+@media (max-width:1200px) {
   .services .services-content .imag {
     display: none;
   }
